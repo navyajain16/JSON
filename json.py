@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May  2 11:18:03 2021
-
-@author: navya
-"""
-
 import json
 import requests
 
