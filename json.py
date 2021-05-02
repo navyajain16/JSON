@@ -1,6 +1,7 @@
 import json
 import requests
 
+#Loading data
 response = requests.get("https://jsonplaceholder.typicode.com/todos")
 todos = json.loads(response.text)
 todos == response.json()
